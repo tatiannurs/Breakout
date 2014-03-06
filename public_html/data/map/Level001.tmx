@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="16" tileheight="16" backgroundcolor="#ffaaff">
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="../img/tiles.png" width="80" height="224"/>
+ </tileset>
+ <tileset firstgid="71" name="brick" tilewidth="16" tileheight="16">
+  <image source="../img/brick.png" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="73" name="ball" tilewidth="16" tileheight="16">
+  <image source="../img/ball.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="74" name="paddle" tilewidth="16" tileheight="16">
+  <image source="../img/paddle.png" width="48" height="16"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2z1PG0EQBmD6NDQ0BpImDQ0NjYHQpEn4+P+/h7WEG8sIdmzf3qt7HmkEHGc8Z82tZk7L2RlwiFWLyxZXLa73/Pxzz/HvvOarc47xNzbnrFvct3j4+H69c+yxxZ+jfVqn92N0AhO4GJ1Ah/PRCUxgNTqBDtvaeR6axWlsr+nX0Cz69NTOvxb/Z/C11+/Ca0ZJqp2qm9EJdJiydl5avLZ4m/A9N24nfr9DJNVO1d3oBDok1U7VenQCHZJqp+ppdAIdzIPzYh6cl6TaqUrq6ZNqp8o8OC9JPX1S7VQl9fRT186I55ZJPX1S7VSZB+clqYdcwjyY1EMuYR5M6iGT7uWqpGtMuperkq4x6V6uSrrGJcyDSetV0rOEqqT1agnzYNJ6NeU8OGo/Q9KavIR5MGlN7pkHR++Dq+6HS1qTl7BfNOkZXVLvUZX0fDep96hK2u+z6T32/f/K7rHqOZ+de8pju7/7e7RPCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABjlHTNqMw0=
+  </data>
+ </layer>
+</map>
