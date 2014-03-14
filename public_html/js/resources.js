@@ -26,7 +26,7 @@ game.resources = [
         
         // *** App Academy ***
         // Add the level as a resource to use within the program
-        {name: "levvel01", type: "tmx", src: "data/map/levvel01.tmx"}
+        {name: "levvel01", type: "tmx", src: "data/map/levvel01.tmx"},
 
 	/* Background music. 
 	 * @example
@@ -37,4 +37,6 @@ game.resources = [
 	 * @example
 	 * {name: "example_sfx", type: "audio", src: "data/sfx/", channel : 2}
 	 */
-];
+        {name: "paddle-sfx", type:"audio", src: "data/sfx/", channel : 1} 
+        
+        ];

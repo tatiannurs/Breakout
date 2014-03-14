@@ -53,6 +53,7 @@ game.BallEntity = me.ObjectEntity.extend ({
         if(collision) {
             if(collision.type === "paddle") {
             this.vel.y *= -1;
+            
     }
     if(collision) {
         if(collision.type === "brick") {
